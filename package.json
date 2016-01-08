@@ -1,0 +1,14 @@
+{
+  "name": "gulp-sass-compiler",
+  "version": "0.0.1",
+  "description": "Gulp Sass Compiler",
+  "author": "Marco Dell'Anna <marco@plasm.it>",
+  "repository": "https://github.com/plasm/gulp-sass-compiler",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-watch": "^4.3.5"
+  }
+}
